@@ -6,7 +6,7 @@
 .full-banner:before {
     content: "";
     position: absolute;
-    border: 1px soild #ffffff;
+    border: 1px solid #ffffff;
     top: 30px;
     bottom: 30px;
     left: 50px;
